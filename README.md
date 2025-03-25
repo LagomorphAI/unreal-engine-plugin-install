@@ -2,6 +2,7 @@
 
 ## Supported Plaftorms
 - Windows
+- Mac and Linux coming soon. Watch this space!
 
 ## Installation
  - Download the [zipped plugin](https://github.com/LagomorphAI/unreal-engine-plugin-install/releases/download/v1.0.0/lagomorph_ai_plugin_v1_0_0_win.zip) to your machine
